@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/theater-qr/static/css/main.7ae038ea.css",
+    "main.js": "/theater-qr/static/js/main.0b999b3c.js",
+    "static/js/453.4a8568b3.chunk.js": "/theater-qr/static/js/453.4a8568b3.chunk.js",
+    "index.html": "/theater-qr/index.html",
+    "main.7ae038ea.css.map": "/theater-qr/static/css/main.7ae038ea.css.map",
+    "main.0b999b3c.js.map": "/theater-qr/static/js/main.0b999b3c.js.map",
+    "453.4a8568b3.chunk.js.map": "/theater-qr/static/js/453.4a8568b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ae038ea.css",
+    "static/js/main.0b999b3c.js"
+  ]
+}
