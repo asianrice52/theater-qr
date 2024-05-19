@@ -1,6 +1,5 @@
-// src/components/ProfilePage.js
 import React from 'react';
-import { QRCode } from 'qrcode.react';
+import { QRCodeCanvas } from 'qrcode.react';
 
 const ProfilePage = ({ profile }) => {
   const pageUrl = `${window.location.origin}/profile/${profile.id}`;
@@ -16,7 +15,7 @@ const ProfilePage = ({ profile }) => {
       ))}
       <div>
         <h3>Scan the QR code to view this profile:</h3>
-        <QRCode value={pageUrl} size={128} />
+        <QRCodeCanvas value={pageUrl} size={128} />
       </div>
     </div>
   );
